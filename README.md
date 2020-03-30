@@ -14,8 +14,8 @@ If you do not have the required libraries, they will need to be installed via pi
 The project was created for project 1 of the Udacity Data Scientist Nanodegree programme to give me an opportunity to practice and communicate a data science problem.
 
 ## 3. File Descriptions
-BlockbusterAnalysis.ipynb: the jupyter notebook file containing all the code I have done and narrative to analyse the data
-blockbusters.csv: data file from Kaggle
+*BlockbusterAnalysis.ipynb*: the jupyter notebook file containing all the code I have done and narrative to analyse the data
+*blockbusters.csv*: data file from [Kaggle](https://www.kaggle.com/bidyutchanda/top-10-highest-grossing-films-19752018)
 
 ## 4. How to interact with the project
 The project can be viewed as a stand alone demonstration of a simple Data Science project. It can also be used as a reference if you are trying to analyse this data yourself. 
